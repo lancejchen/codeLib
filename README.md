@@ -1,0 +1,4 @@
+codeLib
+=======
+
+daily useful code
