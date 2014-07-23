@@ -1,3 +1,5 @@
 <?php 
-phpinfo();
+echo "and me";
+phpinfo()
+;
 ?>
